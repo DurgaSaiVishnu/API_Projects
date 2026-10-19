@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Monkey D. Luffy",
+        "show": "One Piece",
+        "height": "174",
+        "weight": "64"
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "show": "Naruto Shippuden",
+        "height": "166",
+        "weight": "50.9"
+    }
+    {
+        "name": "Levi Ackerman",
+        "show": "Attack on Titan",
+        "height": "160",
+        "weight": "65"
+    },
+    {
+        "name": "Light Yagami",
+        "show": "Death Note",
+        "height": "179",
+        "weight": "54"
+    },
+    {
+        "name": "Edward Elric",
+        "show": "Fullmetal Alchemist: Brotherhood",
+        "height": "149",
+        "weight": "59"
+    },
+    {
+        "name": "Satoru Gojo",
+        "show": "Jujutsu Kaisen",
+        "height": "190",
+        "weight": "85"
+    },
+    {
+        "name": "Killua Zoldyck",
+        "show": "Hunter x Hunter",
+        "height": "158",
+        "weight": "45"
+    },
+    {
+        "name": "Izuku Midoriya",
+        "show": "My Hero Academia",
+        "height": "166",
+        "weight": "60"
+    },
+    {
+        "name": "Roronoa Zoro",
+        "show": "One Piece",
+        "height": "181",
+        "weight": "80"
+    },
+    {
+        "name": "eren",
+        "show": "AOT",
+        "height": 170.0,
+        "weight": 67.0
+    },
+    {
+        "name": "Mikasa",
+        "show": "AOT",
+        "height": 174.0,
+        "weight": 80.0
+    }
+]

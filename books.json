@@ -1,0 +1,54 @@
+[
+    {
+        "id": "B002",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "published_year": 1960,
+        "genre": [
+            "Classic",
+            "Southern Gothic",
+            "Coming-of-Age"
+        ],
+        "is_available": true,
+        "stock": 3
+    },
+    {
+        "id": "B003",
+        "title": "1984",
+        "author": "George Orwell",
+        "published_year": 1949,
+        "genre": [
+            "Dystopian",
+            "Science Fiction",
+            "Political Satire"
+        ],
+        "is_available": false,
+        "stock": 0
+    },
+    {
+        "id": "B004",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published_year": 1813,
+        "genre": [
+            "Romance",
+            "Classic",
+            "Satire"
+        ],
+        "is_available": true,
+        "stock": 7
+    },
+    {
+        "id": "string",
+        "title": "Aot",
+        "author": "Isayama",
+        "published_year": 2009,
+        "genre": [
+            "horror",
+            "mystery",
+            "action"
+        ],
+        "is_available": true,
+        "stock": 100
+    }
+]
